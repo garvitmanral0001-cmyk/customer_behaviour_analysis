@@ -80,3 +80,10 @@ This project demonstrates **end-to-end data analysis**:
 ## 🤝 Contributions
 Contributions, suggestions, and feedback are welcome!
 
+---
+
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+
