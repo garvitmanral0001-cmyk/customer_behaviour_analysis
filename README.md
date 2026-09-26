@@ -79,10 +79,4 @@ This project demonstrates **end-to-end data analysis**:
 
 ## 🤝 Contributions
 Contributions, suggestions, and feedback are welcome!
-- Fork the repository
-- Create a feature branch (`git checkout -b feature-name`)
-- Commit your changes (`git commit -m 'Add new feature'`)
-- Push to the branch (`git push origin feature-name`)
-- Open a Pull Request
 
----
