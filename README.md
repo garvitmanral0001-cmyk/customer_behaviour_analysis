@@ -68,7 +68,21 @@ An interactive **Power BI dashboard** was built to visualize:
 
 ---
 
-## 📌 How to Use
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+## 📈 Outcomes
+This project demonstrates **end-to-end data analysis**:
+- Cleaned and transformed raw transactional data
+- Performed SQL-based business queries for actionable insights
+- Built interactive dashboards in Power BI
+- Delivered strategic recommendations for boosting subscriptions, loyalty, and revenue
+
+---
+
+## 🤝 Contributions
+Contributions, suggestions, and feedback are welcome!
+- Fork the repository
+- Create a feature branch (`git checkout -b feature-name`)
+- Commit your changes (`git commit -m 'Add new feature'`)
+- Push to the branch (`git push origin feature-name`)
+- Open a Pull Request
+
+---
