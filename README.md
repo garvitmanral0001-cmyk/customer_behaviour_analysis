@@ -45,6 +45,8 @@ Key insights derived using SQL queries:
 
 ## 📊 Dashboard (Power BI)
 An interactive **Power BI dashboard** was built to visualize:
+<img width="1437" height="809" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/e426b139-7f8b-44ff-9c61-f8471c395f22" />
+
 - Revenue trends  
 - Customer segments  
 - Product performance  
